@@ -12,7 +12,7 @@ A total of three neural networks have been implemented in this work and their na
 
 ### CNN
 
-### CNN_attn
+### CNN+attention
 
 ### resnet18
 
